@@ -1,0 +1,7 @@
+[
+  {
+    "name": "com.epam.calculator.Greeting",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  }
+]

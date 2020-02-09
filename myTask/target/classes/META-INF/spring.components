@@ -1,0 +1,2 @@
+com.epam.calculator.App=org.springframework.stereotype.Component
+com.epam.calculator.GreetingController=org.springframework.stereotype.Component

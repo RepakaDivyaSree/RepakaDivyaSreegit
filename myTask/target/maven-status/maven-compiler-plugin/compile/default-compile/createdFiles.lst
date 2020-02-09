@@ -1,0 +1,11 @@
+com\epam\calculator\GreetingController.class
+com\epam\calculator\Operation.class
+com\epam\calculator\Subtraction.class
+com\epam\calculator\Greeting.class
+META-INF\spring.components
+com\epam\calculator\MyCalculator.class
+com\epam\calculator\Exceptions.class
+com\epam\calculator\Multiplication.class
+com\epam\calculator\Addition.class
+com\epam\calculator\Division.class
+com\epam\calculator\App.class
